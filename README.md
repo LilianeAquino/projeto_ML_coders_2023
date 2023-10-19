@@ -1,4 +1,4 @@
-# Projeto Turma 970 - Machine Learning I
+# Projeto Turma 1006 - Machine Learning I
 
 ### Descrição do Trabalho:
 
